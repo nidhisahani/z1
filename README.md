@@ -1,7 +1,9 @@
-```
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/nidhisahani/z1.git
-git push -u origin main
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nidhisahani/v1
+   cd v1
+
+ 2.
+   ```bash
+   npm install
+   npm start
